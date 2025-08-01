@@ -1,6 +1,6 @@
 # Gemfile
 source 'https://rubygems.org'
 
-gem 'rails', '~> 7.1', '>= 7.1.0'
+gem 'rails', '~> 6.1', '>= 6.1.2.1'
 gem 'pg'
-gem 'puma', '>= 5.6.9'
+gem 'puma', '>= 5.3.1'
